@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Designing and developing responsive websites for various brands to enhance their online presence](https://github.com/demolaxbee/1715-website)
 
-- 🌱 I’m currently learning **Next.js, Tailwind CSS, Docker**
+- 🌱 I’m currently learning **Next.js, Tailwind CSS, Docker, TypeScript**
 
 - 👯 I’m looking to collaborate on **: Looking to team up with friends and fellow developers to bring the AI voice agent project to fruition (still in the research phase))**
 
