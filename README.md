@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **zyq049@usask.ca**
 
-- 📄 Know about my experiences https://github.com/demolaxbee/demolaxbee/blob/main/Obaleye-Ademola-Resume.pdf
+- 📄 Know about my experiences [https://github.com/demolaxbee/demolaxbee/blob/main/Obaleye-Ademola-Resume.pdf](https://github.com/demolaxbee/demolaxbee/blob/main/Ademola_Obaleye_Resume.pdf)
 
 - ⚡ Fun fact **I'm passionate about leveraging technology to solve real-world problems and am always on the lookout for innovative ideas to explore.**
 
